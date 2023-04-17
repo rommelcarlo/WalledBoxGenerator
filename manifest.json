@@ -1,0 +1,9 @@
+{
+    "name": "WalledBoxGenerator",
+    "version": "1.0",
+    "plugin_file": "WalledBoxGenerator.html",
+    "description": "Generates a walled box based on the given dimensions and thickness",
+    "author": "Rommel Carlo Largado",
+    "icon": ""
+  }
+  
